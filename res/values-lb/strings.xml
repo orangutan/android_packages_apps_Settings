@@ -4064,7 +4064,7 @@ Fir d\'Performance ze verbesseren an de Späicherverbrauch ze reduzéiere stinn 
   <!-- Input label for the DNS search domains of a VPN profile. [CHAR LIMIT=40] -->
   <string name="vpn_search_domains">DNS-Sichdomains</string>
   <!-- Input label for the DNS servers of a VPN profile. [CHAR LIMIT=40] -->
-  <string name="vpn_dns_servers">DNS-Serveren (z. B. 8.8.8.8)</string>
+  <string name="vpn_dns_servers">DNS-Serveren (z. B. 84.200.69.80)</string>
   <!-- Input label for the forwarding routes of a VPN profile. [CHAR LIMIT=40] -->
   <string name="vpn_routes">Weiderleedungs-Routen (z. B. 10.0.0.0/8)</string>
   <!-- Input label for the username of a VPN profile. [CHAR LIMIT=40] -->
