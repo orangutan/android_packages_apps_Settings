@@ -34,6 +34,7 @@
         <SwitchPreference
             android:key="show_password"
             android:title="@string/show_password"
+	    android:defaultValue="false"
             android:summary="@string/show_password_summary"/>
 
     </PreferenceCategory>
