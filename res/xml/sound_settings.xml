@@ -68,6 +68,7 @@
         <!-- Also vibrate for calls -->
         <SwitchPreference
                 android:key="vibrate_when_ringing"
+        	android:defaultValue="true"
                 android:title="@string/vibrate_when_ringing_title" />
 
         <!-- Interruptions -->
@@ -122,6 +123,7 @@
         <!-- Screen locking sounds -->
         <SwitchPreference
           android:key="screen_locking_sounds"
+          android:defaultValue="true"
           android:title="@string/screen_locking_sounds_title" />
 
         <!-- Charging sounds -->

@@ -49,6 +49,7 @@
         android:key="add_users_when_locked"
         android:title="@string/user_add_on_lockscreen_menu"
         android:singleLineTitle="false"
+        android:defaultValue="false"
         android:order="105"/>
 
     <PreferenceCategory

@@ -40,12 +40,14 @@
 
     <SwitchPreference
         android:key="power_button_instantly_locks"
+        android:defaultValue="true"
         android:title="@string/lockpattern_settings_enable_power_button_instantly_locks" />
 
     <SwitchPreference
         android:key="directly_show_lock"
         android:title="@string/lock_directly_show_pattern"
         android:summary="@string/lock_directly_show_pattern_summary"
+        android:defaultValue="true"
         android:persistent="false" />
 
     <com.android.settingslib.RestrictedPreference

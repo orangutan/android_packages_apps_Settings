@@ -28,10 +28,12 @@
 
     <SwitchPreference
         android:key="power_button_instantly_locks"
+        android:defaultValue="true"
         android:title="@string/lockpattern_settings_enable_power_button_instantly_locks" />
 
     <SwitchPreference
         android:key="directly_show_lock"
+        android:defaultValue="true"
         android:title="@string/lock_directly_show_pin"
         android:summary="@string/lock_directly_show_pin_summary"
         android:persistent="false" />
@@ -43,6 +45,7 @@
     <lineageos.preference.LineageSystemSettingSwitchPreference
         android:key="lockscreen_scramble_pin_layout"
         android:title="@string/unlock_scramble_pin_layout_title"
+        android:defaultValue="true"
         android:summary="@string/unlock_scramble_pin_layout_summary" />
 
     <lineageos.preference.LineageSecureSettingSwitchPreference

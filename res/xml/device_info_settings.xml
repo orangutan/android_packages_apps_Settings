@@ -141,13 +141,13 @@
 		android:enabled="false"
 		android:shouldDisableView="false"
 		android:title="ROM name"
-		android:summary="Secure Android"/>
+		android:summary="FZ"/>
 
 <!-- ROM build version -->
 		<Preference android:key="rom_number"
 		android:enabled="false"
 		android:shouldDisableView="false"
 		android:title="ROM build number"
-		android:summary="8.1 V0.1a"/>
+		android:summary="8.1 V0.1b"/>
 
 </PreferenceScreen>
